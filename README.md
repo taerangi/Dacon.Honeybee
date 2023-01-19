@@ -5,5 +5,5 @@
   - [손글씨 분류 AI 경진대회](https://dacon.io/codeshare/3778)
   
 - 계정2: [Dacon.Honeybee](https://dacon.io/myprofile/429497/home) (관리자)
-  - [2021 농산물 가격예측 AI 경진대회 (aT)](https://dacon.io/competitions/official/235801/overview/description)
-  - [2021 훈민정음 한국어 음성•자연어 인공지능 경진대회 (NIA)](https://github.com/hunminjeongeum-korean-competition-2021/speaker-recognition)
+  - [2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description) (aT)
+  - [2021 훈민정음 한국어 음성•자연어 인공지능 경진대회](https://github.com/hunminjeongeum-korean-competition-2021/speaker-recognition) (NIA)
